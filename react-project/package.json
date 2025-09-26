@@ -1,0 +1,56 @@
+{
+  "name": "gregorymccormick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BostonDoc617/vendor-risk-assessment-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BostonDoc617/vendor-risk-assessment-app/issues"
+  },
+  "homepage": "https://github.com/BostonDoc617/vendor-risk-assessment-app#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.3",
+    "vite": "^7.1.6"
+  },
+  "dependencies": {
+    "baseline-browser-mapping": "^2.8.6",
+    "browserslist": "^4.26.2",
+    "caniuse-lite": "^1.0.30001743",
+    "convert-source-map": "^2.0.0",
+    "debug": "^4.4.3",
+    "electron-to-chromium": "^1.5.222",
+    "esbuild": "^0.25.10",
+    "escalade": "^3.2.0",
+    "fdir": "^6.5.0",
+    "fsevents": "^2.3.3",
+    "gensync": "^1.0.0-beta.2",
+    "js-tokens": "^4.0.0",
+    "jsesc": "^3.1.0",
+    "json5": "^2.2.3",
+    "lru-cache": "^5.1.1",
+    "ms": "^2.1.3",
+    "nanoid": "^3.3.11",
+    "node-releases": "^2.0.21",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.3",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-refresh": "^0.17.0",
+    "rollup": "^4.52.0",
+    "semver": "^6.3.1",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.15",
+    "update-browserslist-db": "^1.1.3",
+    "yallist": "^3.1.1"
+  }
+}
